@@ -1,8 +1,7 @@
 /**
  * Course:   IT110 - Introduction to Programming
  * Filename: PizzasRUsPhase1.java
- * Created:  04/09/10 by Dr. Debby Telfer
- * Modified: 11/26/13 by Dr. Bary W Pollack
+ * Professor: Dr. Bary W Pollack
  * 
  * Purpose:  Created a simple online ordering system
  *			 for Pizzas-R-Us customers
